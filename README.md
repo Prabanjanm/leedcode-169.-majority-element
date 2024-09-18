@@ -13,6 +13,7 @@ class Solution {
             }
             if(count>size/2){
                 return nums[i];
+                
             }
         }
         return -1;
